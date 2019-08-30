@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632676610887",
+    "firebase_url": "https://cv-generator-app.firebaseio.com",
+    "project_id": "cv-generator-app",
+    "storage_bucket": "cv-generator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632676610887:android:affaa54c954694f2",
+        "android_client_info": {
+          "package_name": "com.example.cvappgenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632676610887-m0nih5qtcldfqi4lnpr0p1agvo999ct7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cvappgenerator",
+            "certificate_hash": "39ab87eec701df99616d17f84dfacad1aa47e011"
+          }
+        },
+        {
+          "client_id": "632676610887-r8skla4rko3ck6lvmdsqqp4tis2vpato.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5U02rZGv_Ulk7DmlyyXudwRM3Fw9HGqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632676610887-r8skla4rko3ck6lvmdsqqp4tis2vpato.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
